@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=CASEYRHODES%20XMD%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
 
-> **`Updated` CASEYRHODES XMD with Latest Features**
+> **`Updated` XXXWONGTOCION with Latest Features**
 
-## CONTACT CASEYRHODES TECH
+## CONTACT XXXWONGTOCION 
   
 <a href="https://wa.me/254112192119"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
@@ -12,7 +12,7 @@
 </p>
 
 
-# CASEYRHODES BOTZ INC.❤️
+# XXXWONGTOCION 
 
 [![Sponsor Caseyrhodes](https://img.shields.io/badge/Sponsor-caseyweb-important)](https://github.com/sponsors/caseyweb)
 
@@ -55,7 +55,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 ### 2. GET SESSION ID SERVER 1
 
-You will need a session ID to run CASEYRHODES-XMD. Click the button below to obtain your session ID:
+You will need a session ID to run XXXWONGTOCION. Click the button below to obtain your session ID:
 
 <a href='https://caseywebsite-git.vercel.app/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
@@ -113,7 +113,7 @@ You will need a session ID to run CASEYRHODES-XMD. Click the button below to obt
 
 ---
 
-## 🔗 CASEYRHODES XMD Info
+## 🔗 XXXWONGTOCION Info
 
   <p align="center">
 <a href="https://github.com/SilvaTechB/followers"><img title="Followers" src="https://img.shields.io/github/followers/SilvaTechB?color=blue&style=flat-square"></a>
@@ -149,7 +149,7 @@ You will need a session ID to run CASEYRHODES-XMD. Click the button below to obt
     </a>
 </p>
 
-## CASEYRHODES SUPPORT 
+## XXXWONGTOCION SUPPORT 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=CASEYRHODES XMD +MAKE; STAR ⭐+AND+FORKS+BY+CASEYRHODES XMD" alt="Typing SVG" /></a>
 
